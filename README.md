@@ -2,7 +2,7 @@
 
 **WTIChat** is India's first open AI chatbot interface built using pure **HTML, CSS, and JavaScript**, powered by **OpenRouter API (GPT-based)**. It includes real-time speech-to-text, multi-language support, and a clean responsive layout.
 
-🌐 **Live Demo**: [http://prabhatghibli.kesug.com](http://prabhatghibli.kesug.com)
+🌐 **Live Demo**: [https://prabhatghibli.kesug.com](https://prabhatghibli.kesug.com)
 
 ---
 
