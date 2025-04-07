@@ -1,41 +1,66 @@
-# 🚀 WTIChat – India's 1st AI
+## 🧠 WTIchat - India's 1st AI Chat Assistant 🇮🇳
 
-**WTIChat** is India's first open AI chatbot interface built using pure **HTML, CSS, and JavaScript**, powered by **OpenRouter API (GPT-based)**. It includes real-time speech-to-text, multi-language support, and a clean responsive layout.
+[Live Demo 🚀](https://sage-zabaione-fa6a10.netlify.app/)
 
-🌐 **Live Demo**: [https://prabhatghibli.kesug.com](https://prabhatghibli.kesug.com)
-
----
-
-## 🧠 Features
-
-- 🎙️ Voice Input (Speech Recognition)
-- 🗨️ Smart AI Chat Responses (via OpenRouter API)
-- 🌐 Multi-language Support (Hindi, English, Hinglish)
-- ☀️ Light/Dark Mode Toggle
-- ⚡ Send message on `Enter` key
-- 🧑‍🎨 Fully custom, responsive UI
+WTIchat एक स्मार्ट, मल्टी-लैंग्वेज सपोर्टेड चैटबॉट है, जिसे विशेष रूप से भारतीय यूज़र्स के लिए डिज़ाइन किया गया है। यह Hindi, English और Hinglish में काम करता है, और voice recognition भी सपोर्ट करता है।
 
 ---
 
-## 📸 Screenshots
+### ✨ Features
 
-| Chat UI | Voice Input | Language Options |
-|--------|-------------|------------------|
-| ![screenshot1](link-to-screenshot1) | ![screenshot2](link-to-screenshot2) | ![screenshot3](link-to-screenshot3) |
+- 🌐 Hindi, English और Hinglish language support
+- 🎤 Voice input using Web Speech API
+- 🌙 Light/Dark mode toggle
+- 🧠 GPT-3.5-Turbo powered AI via OpenRouter
+- 💬 Typing animation & sleek UI
+- 📱 Fully responsive design
 
 ---
 
-## 🛠️ Tech Stack
+### 🚀 Tech Stack
 
-- HTML5
-- CSS3 (Glassmorphism UI)
-- Vanilla JavaScript
-- OpenRouter API (GPT-3.5 Turbo)
+- **React + Vite**
+- **TypeScript**
+- **TailwindCSS**
+- **OpenRouter API (GPT-3.5-turbo)**
+- **Lucide Icons**
+- **Framer Motion**
+
 ---
 
-## 🔑 Setup Instructions
+### 🔧 Installation (For Local Dev)
 
-1. **Clone the repo**  
-   ```bash
-   git clone https://github.com/webboss11/wtichat.git
-# Wtichat---india-s-first-ai
+```bash
+git clone https://github.com/your-username/wtichat.git
+cd wtichat
+npm install
+```
+
+Create a `.env` file in root:
+
+```
+VITE_OPENROUTER_API_KEY=your_api_key_here
+```
+
+Run locally:
+
+```bash
+npm run dev
+```
+
+---
+
+### 🌍 Hosting
+
+This project is hosted on **Netlify**:  
+🔗 [https://sage-zabaione-fa6a10.netlify.app/](https://sage-zabaione-fa6a10.netlify.app/)
+
+---
+
+### 👨‍💻 Developed By
+
+**WebTech Infinity**  
+Website: [https://www.webtechinfinity.com](https://www.webtechinfinity.com)
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------
